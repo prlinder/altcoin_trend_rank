@@ -12,7 +12,7 @@ The code also contains many commented-out commands which are useful in a Jupyter
 
 Example Output
 --------------
-<div>
+```
 Thu Jul 19 09:30:58 2018
 
 List of POLONIEX traded coins ranked by % change in the price-per-BTC over time=>
@@ -132,7 +132,7 @@ OMG    -23.80%   $   75643200   OmiseGO         0.001048    $    7.762080    0.9
 REP    -24.36%   $    4348390   Augur           0.004071    $   30.080000    0.97    0.94     0.81    0.76
 DCR    -29.51%   $    3603230   Decred          0.009795    $   72.381100    1.01    0.97     1.07    0.70
 BTM    -38.01%   $   94199600   Bytom           0.000050    $    0.366776    0.99    1.02     1.02    0.62
-</div>
+```
 
 License
 -------
